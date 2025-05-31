@@ -1,0 +1,96 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+header {
+    justify-content: space-between;
+    padding: 15px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+   
+
+    
+}
+
+.button {
+    background-color: #ffffff;
+    color: aqua;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    display: block;
+    
+}
+
+nav {
+    border-top: 5px solid rgb(0, 0, 0);
+    border-bottom: 5px solid rgb(0, 0, 0);
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: rgb(9, 0, 0);
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 36px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    max-width: 1100px;
+    margin: 0px auto 0px auto;
+    display: flex;
+}
+
+article {
+    background-color: white;
+    padding: 15px;
+    width: 400px;
+    margin: 15px;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: rgb(253, 210, 210);
+    color: rgb(255, 255, 255)255);
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    display: block; 
+}
+
+footer {
+    background-color: aqua;
+    
+    
+}
+
+footer {
+    background-color: rgba(0, 208, 255, 1);
+    padding: 10px;
+}
+
+footer p {
+    
+    padding: 5px;
+}
+
+
